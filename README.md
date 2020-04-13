@@ -50,6 +50,3 @@ dotchart(dataset$conc, dataset$Type, cex=.7,
    xlab="Concentration", 
    ylab="Type")
 ```
-
-#This is our presentation. We hope you enjoyed.
-
